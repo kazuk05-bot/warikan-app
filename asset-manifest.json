@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/kazuk05-bot/warikan-app.git/static/css/main.77aefc3a.css",
-    "main.js": "/kazuk05-bot/warikan-app.git/static/js/main.b6867d08.js",
-    "static/js/453.466c0a81.chunk.js": "/kazuk05-bot/warikan-app.git/static/js/453.466c0a81.chunk.js",
-    "index.html": "/kazuk05-bot/warikan-app.git/index.html",
-    "main.77aefc3a.css.map": "/kazuk05-bot/warikan-app.git/static/css/main.77aefc3a.css.map",
-    "main.b6867d08.js.map": "/kazuk05-bot/warikan-app.git/static/js/main.b6867d08.js.map",
-    "453.466c0a81.chunk.js.map": "/kazuk05-bot/warikan-app.git/static/js/453.466c0a81.chunk.js.map"
+    "main.css": "/warikan-app.git/static/css/main.77aefc3a.css",
+    "main.js": "/warikan-app.git/static/js/main.243430ee.js",
+    "static/js/453.466c0a81.chunk.js": "/warikan-app.git/static/js/453.466c0a81.chunk.js",
+    "index.html": "/warikan-app.git/index.html",
+    "main.77aefc3a.css.map": "/warikan-app.git/static/css/main.77aefc3a.css.map",
+    "main.243430ee.js.map": "/warikan-app.git/static/js/main.243430ee.js.map",
+    "453.466c0a81.chunk.js.map": "/warikan-app.git/static/js/453.466c0a81.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.77aefc3a.css",
-    "static/js/main.b6867d08.js"
+    "static/js/main.243430ee.js"
   ]
 }
