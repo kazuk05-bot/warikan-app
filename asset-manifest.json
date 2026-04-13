@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/warikan-app/static/css/main.1205658a.css",
-    "main.js": "/warikan-app/static/js/main.56f54a93.js",
+    "main.css": "/warikan-app/static/css/main.b4db9304.css",
+    "main.js": "/warikan-app/static/js/main.c111a023.js",
     "static/js/453.466c0a81.chunk.js": "/warikan-app/static/js/453.466c0a81.chunk.js",
     "index.html": "/warikan-app/index.html",
-    "main.1205658a.css.map": "/warikan-app/static/css/main.1205658a.css.map",
-    "main.56f54a93.js.map": "/warikan-app/static/js/main.56f54a93.js.map",
+    "main.b4db9304.css.map": "/warikan-app/static/css/main.b4db9304.css.map",
+    "main.c111a023.js.map": "/warikan-app/static/js/main.c111a023.js.map",
     "453.466c0a81.chunk.js.map": "/warikan-app/static/js/453.466c0a81.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1205658a.css",
-    "static/js/main.56f54a93.js"
+    "static/css/main.b4db9304.css",
+    "static/js/main.c111a023.js"
   ]
 }
